@@ -46,6 +46,17 @@ a:hover {
   color: rgb(22, 130, 166);
 }
 
+footer {
+  font-size: 10px;
+  position: relative;
+  right: -680px;
+  color: rgb(22, 130, 166);
+}
+
+.link-git {
+  color: rgb(22, 130, 166);
+}
+
 .weather-app {
   border: none;
   margin: 20px auto;
